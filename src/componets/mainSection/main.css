@@ -1,0 +1,77 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  padding: 50px 20px;
+  background: #fafafa;
+}
+
+/* About */
+.about,
+.importance {
+  max-width: 900px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 40px;
+  border-radius: 14px;
+  box-shadow: 0px 6px 16px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.about h2,
+.importance h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.about p,
+.importance p {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.7;
+}
+
+/* Benefits */
+.benefits {
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.benefits h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: black;
+}
+
+.benefit-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}
+
+.benefit-item {
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.08);
+  width: 300px;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.benefit-item:hover {
+  transform: translateY(-5px);
+}
+
+.benefit-item h3 {
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+}
+
+.benefit-item p {
+  color: #555;
+  line-height: 1.6;
+}

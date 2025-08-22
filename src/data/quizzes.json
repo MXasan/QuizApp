@@ -1,0 +1,246 @@
+[
+    {
+        "id": 1,
+        "title": "IELTS Vocabulary • Set 1 (Beginner A1)",
+        "questions": [
+            {
+                "question": "Choose the synonym of 'happy'",
+                "options": [
+                    "sad",
+                    "angry",
+                    "glad",
+                    "tired"
+                ],
+                "answer": "glad",
+                "explanation": "'Happy' ≈ 'glad'."
+            },
+            {
+                "question": "Antonym of 'hot' is…",
+                "options": [
+                    "warm",
+                    "cold",
+                    "boiling",
+                    "heat"
+                ],
+                "answer": "cold",
+                "explanation": "Opposite of hot = cold."
+            },
+            {
+                "question": "Which word means 'small house'?",
+                "options": [
+                    "hut",
+                    "sky",
+                    "tree",
+                    "big"
+                ],
+                "answer": "hut",
+                "explanation": "A 'hut' is a small house."
+            },
+            {
+                "question": "Fill the gap: I ___ a book.",
+                "options": [
+                    "read",
+                    "reads",
+                    "reading",
+                    "to read"
+                ],
+                "answer": "read",
+                "explanation": "Present Simple → 'I read'."
+            },
+            {
+                "question": "Choose the correct sentence:",
+                "options": [
+                    "He go to school.",
+                    "He goes to school.",
+                    "He going to school.",
+                    "He to go school."
+                ],
+                "answer": "He goes to school.",
+                "explanation": "3rd person singular → 'goes'."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "IELTS Vocabulary • Set 2 (Elementary A2)",
+        "questions": [
+            {
+                "question": "Synonym of 'big' is…",
+                "options": [
+                    "tiny",
+                    "huge",
+                    "little",
+                    "thin"
+                ],
+                "answer": "huge",
+                "explanation": "'Big' ≈ 'huge'."
+            },
+            {
+                "question": "Antonym of 'difficult' is…",
+                "options": [
+                    "easy",
+                    "hard",
+                    "tough",
+                    "complicated"
+                ],
+                "answer": "easy",
+                "explanation": "Opposite of 'difficult' = 'easy'."
+            },
+            {
+                "question": "Fill the gap: She ___ English every day.",
+                "options": [
+                    "study",
+                    "studies",
+                    "studying",
+                    "to study"
+                ],
+                "answer": "studies",
+                "explanation": "3rd person singular → 'studies'."
+            },
+            {
+                "question": "Which word means 'to start'?",
+                "options": [
+                    "finish",
+                    "begin",
+                    "close",
+                    "end"
+                ],
+                "answer": "begin",
+                "explanation": "'Begin' = 'start'."
+            },
+            {
+                "question": "Choose the correct sentence:",
+                "options": [
+                    "They doesn't like tea.",
+                    "They don’t likes tea.",
+                    "They don’t like tea.",
+                    "They no like tea."
+                ],
+                "answer": "They don’t like tea.",
+                "explanation": "Plural → 'don’t like'."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "IELTS Vocabulary • Set 3 (Pre-Intermediate B1)",
+        "questions": [
+            {
+                "question": "Synonym of 'important' is…",
+                "options": [
+                    "useless",
+                    "necessary",
+                    "weak",
+                    "simple"
+                ],
+                "answer": "necessary",
+                "explanation": "'Important' ≈ 'necessary'."
+            },
+            {
+                "question": "Antonym of 'increase' is…",
+                "options": [
+                    "grow",
+                    "reduce",
+                    "rise",
+                    "expand"
+                ],
+                "answer": "reduce",
+                "explanation": "Opposite of increase = reduce."
+            },
+            {
+                "question": "Fill the gap: The film was ___ interesting than the book.",
+                "options": [
+                    "more",
+                    "most",
+                    "much",
+                    "very"
+                ],
+                "answer": "more",
+                "explanation": "Comparative → 'more interesting'."
+            },
+            {
+                "question": "Which word means 'to make better'?",
+                "options": [
+                    "enhance",
+                    "weaken",
+                    "decline",
+                    "damage"
+                ],
+                "answer": "enhance",
+                "explanation": "'Enhance' = improve."
+            },
+            {
+                "question": "Choose the correct sentence:",
+                "options": [
+                    "If I will see him, I tell you.",
+                    "If I see him, I will tell you.",
+                    "If I saw him, I will tell you.",
+                    "If I seeing him, I tell you."
+                ],
+                "answer": "If I see him, I will tell you.",
+                "explanation": "First Conditional → If + Present Simple, will + V."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "IELTS Vocabulary • Set 4 (Intermediate B1+)",
+        "questions": [
+            {
+                "question": "Synonym of 'rapid' is…",
+                "options": [
+                    "quick",
+                    "slow",
+                    "weak",
+                    "tiny"
+                ],
+                "answer": "quick",
+                "explanation": "'Rapid' = 'quick'."
+            },
+            {
+                "question": "Antonym of 'ancient' is…",
+                "options": [
+                    "modern",
+                    "old",
+                    "historic",
+                    "traditional"
+                ],
+                "answer": "modern",
+                "explanation": "Opposite of ancient = modern."
+            },
+            {
+                "question": "Fill the gap: The project must be finished ___ Friday.",
+                "options": [
+                    "at",
+                    "by",
+                    "in",
+                    "on"
+                ],
+                "answer": "by",
+                "explanation": "Deadline → 'by Friday'."
+            },
+            {
+                "question": "Which word means 'to suggest'? ",
+                "options": [
+                    "recommend",
+                    "refuse",
+                    "ignore",
+                    "prevent"
+                ],
+                "answer": "recommend",
+                "explanation": "'Recommend' = 'suggest'."
+            },
+            {
+                "question": "Choose the correct sentence:",
+                "options": [
+                    "She suggested go to the park.",
+                    "She suggested going to the park.",
+                    "She suggested to go the park.",
+                    "She suggested we going park."
+                ],
+                "answer": "She suggested going to the park.",
+                "explanation": "After 'suggest' → verb+ing."
+            }
+        ]
+    }
+]
