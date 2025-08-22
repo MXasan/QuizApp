@@ -17,7 +17,6 @@ export default function Progress() {
     return (
         <div className="progress">
             <h2>Your Progress</h2>
-            {console.log(history)}
             <div className="countOfQuiz">
                 <p>count of quiz: {history.length}</p><p>total score:{averageScore}</p>
             </div>
